@@ -13,14 +13,10 @@ body {
     height: 100vh;
 }
 
-.box {
-    background-color: #f53838;
-    width: 300px;
-    height: 200px;
-}
-
 #intro {
     text-align: center;
+    border: solid 1px #282828;
+    padding: 30px;
 }
 
 #icon {
