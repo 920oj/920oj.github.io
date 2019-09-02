@@ -1,0 +1,28 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 15px;
+    color: #282828;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#hello {
+    font-size: 1.6em;
+    font-weight: 700;
+}
+
+button {
+    border: solid 2px #282828;
+    margin: 30px;
+    padding: 10px;
+}
+
+button:hover {
+    background-color: #282828;
+    color: #fff;
+}
