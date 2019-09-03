@@ -17,6 +17,7 @@ body {
     text-align: center;
     border: solid 1px #282828;
     padding: 30px;
+    display: none;
 }
 
 #icon {
